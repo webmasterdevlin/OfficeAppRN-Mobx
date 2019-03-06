@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "OfficeAppMobx",
-    "slug": "com.devlin.mobx",
+    "name": "Office App Mobx",
+    "slug": "office-app-mobx",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
