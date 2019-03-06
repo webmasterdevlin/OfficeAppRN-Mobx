@@ -1,0 +1,60 @@
+{
+  "departments": [
+    {
+      "id": "dfsdfh331",
+      "name": "HR",
+      "description": "Human Resource",
+      "head": "Sakura Chan",
+      "code": "32kn"
+    },
+    {
+      "id": "r32sf89fhw",
+      "name": "ACCT",
+      "description": "Accounting",
+      "head": "Naruto Uzumaki",
+      "code": "32kn"
+    },
+    {
+      "id": "sjhgd89cpyh",
+      "name": "Clinic",
+      "description": "Clinic",
+      "head": "Sasuke Uchija",
+      "code": "oa003"
+    },
+    {
+      "id": "fh89hgjwrg3",
+      "name": "Controller",
+      "description": "Controller",
+      "head": "Rock Lee",
+      "code": "oa002"
+    },
+    {
+      "id": "gUkjkNRdd",
+      "name": "DDD",
+      "description": "Xxx",
+      "head": "Xxx",
+      "code": "Xxx"
+    },
+    {
+      "id": "_Sz43d35Z",
+      "name": "Po",
+      "description": "Po",
+      "head": "Po",
+      "code": "Po"
+    },
+    {
+      "name": "Ccccc",
+      "description": "C",
+      "head": "C",
+      "code": "C",
+      "id": "toqth-X"
+    },
+    {
+      "name": "We",
+      "description": "W",
+      "head": "W",
+      "code": "W",
+      "id": "FQJXET_"
+    }
+  ]
+}
